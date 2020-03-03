@@ -1,0 +1,10 @@
+image: node:11.15.0
+
+pages:
+   script:
+     - npm run bootstrap
+     - npm run build
+     - cp -r ./packages/core/dist/. ./public
+   artifacts:
+     paths:
+       - ./public
