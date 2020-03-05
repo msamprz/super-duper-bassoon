@@ -28,7 +28,7 @@ This repository contains the various platforms of the Deriv application.
 - [JavaScript guidelines](docs/JavaScript/README.md) - Contains rules for JS/JSX code style
 - [Modules docs](docs/Modules/README.md) - Contains implementation guides (i.e., scaffolding, code usage)
 
-[comment]: <> (TODO: Refactor Clean Project to be under usage)
+[comment]: <> (TODO: Refactor Clean Project to be under usage.)
 
 ## Installation
 In order to work on your own version of the Deriv application, please **fork this project**.
